@@ -6,8 +6,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2159135" style='border:none;'></iframe>
-
 
 <!---
 Despereaux0/Despereaux0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
