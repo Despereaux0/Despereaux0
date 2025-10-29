@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I built my first web scraper before I ever took a formal programming class — and I’ve been breaking and securing systems ever since.
 
 TryHackMe Badge
+
 [![TryHackMe Badges](Despereaux0.png)](https://tryhackme.com/p/Despereaux0)
 <!---
 Despereaux0/Despereaux0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
