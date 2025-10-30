@@ -11,7 +11,6 @@
 </p>
 
 <p align="center">
-  👋 Hi, I’m @Despereaux0<br>
   👀 I’m interested in cybersecurity — especially penetration testing, threat analysis, and defensive security.<br>
   🌱 I’m currently learning advanced red team techniques through TryHackMe, Hack The Box, and my personal Kali Linux lab.<br>
   💞️ I’m looking to collaborate on open-source security projects, Capture the Flag (CTF) writeups, and tool development in Python or Bash.<br>
