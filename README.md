@@ -45,13 +45,11 @@ Junior CyberSecurity Analyst
   </a>
 
   <a href="https://tryhackme.com/p/Despereaux0" target="_blank" rel="noreferrer">
-    <picture>
-      <!-- White variant for dark mode -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.logokit.com/brands/tryhackme.com/download/tryhackme-symbol-white.svg" />
-      <!-- Regular (dark) variant for light mode -->
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.logokit.com/brands/tryhackme.com/download/tryhackme-symbol.svg" />
-      <img src="https://cdn.logokit.com/brands/tryhackme.com/download/tryhackme-symbol.svg" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/tryhackme-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/tryhackme.svg" />
+    <img src="assets/tryhackme.svg" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
+  </picture>
+</a>
 </p>
 
