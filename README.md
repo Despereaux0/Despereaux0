@@ -47,6 +47,9 @@ Junior CyberSecurity Analyst
   <a href="https://tryhackme.com/p/Despereaux0" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/Despereaux0/Despereaux0/main/assets/tryhackme.svg" 
        width="32" height="32" alt="TryHackMe" title="TryHackMe" />
+
+  <a href="https://app.hackthebox.com/users/2401470" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/331423/hack-the-box.svg" width="32" height="32" alt="Hack The Box" title="Hack The Box" />
 </a>
 </p>
 
