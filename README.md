@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/swrh0ryFA5MAAAAi/hypee-elmo-hype.gif" alt="Hype GIF" width="120" />
+  <img src="https://raw.githubusercontent.com/Despereaux0/Despereaux0/main/assets/elmo.svg" alt="Hype GIF" width="120" />
 </p>
 
 <h1 align="center">Hi! My name is Despereaux0</h1>
