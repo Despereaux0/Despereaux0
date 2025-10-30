@@ -62,8 +62,6 @@ If you're curious about my work, feel free to explore my [Repositories](https://
 </a>
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2159135" style='border:none;'></iframe>
-
 [![TryHackMe Badges](assets/Despereaux0.png)](https://tryhackme.com/p/Despereaux0)
 
 _"Line by line, one code at a time."_
