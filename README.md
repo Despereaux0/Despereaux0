@@ -2,11 +2,11 @@
   <img src="https://media.tenor.com/swrh0ryFA5MAAAAi/hypee-elmo-hype.gif" alt="Hype GIF" width="100" />
 </p>
 
-<p align="center" style="font-size:128px; font-weight:bold; margin:0;">
+<p align="center" style="font-size:64px; font-weight:bold; margin:0;">
   Hi! My name is Despereaux0
 </p>
 
-<p align="center" style="font-size:64px; font-weight:500; margin:0;">
+<p align="center" style="font-size:40px; font-weight:500; margin:0;">
   Junior CyberSecurity Analyst
 </p>
 
