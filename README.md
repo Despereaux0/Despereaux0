@@ -2,13 +2,8 @@
   <img src="https://media.tenor.com/swrh0ryFA5MAAAAi/hypee-elmo-hype.gif" alt="Hype GIF" width="120" />
 </p>
 
-<h1 align="center">
-  <br>Hi! My name is Despereaux0<br><br>
-</h1>
-
-<h2 align="center">
-  Junior CyberSecurity Analyst
-</h2>
+<h1 align="center">Hi! My name is Despereaux0</h1>
+<h2 align="center">Junior CyberSecurity Analyst</h2>
 
 
 👀 I’m interested in cybersecurity — especially penetration testing, threat analysis, and defensive security.<br>
