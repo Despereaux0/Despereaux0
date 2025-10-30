@@ -45,11 +45,8 @@ Junior CyberSecurity Analyst
   </a>
 
   <a href="https://tryhackme.com/p/Despereaux0" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/tryhackme-white.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/tryhackme.svg" />
-    <img src="assets/tryhackme.svg" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Despereaux0/Despereaux0/main/assets/tryhackme-white.svg" 
+       width="32" height="32" alt="TryHackMe" title="TryHackMe" />
 </a>
 </p>
 
