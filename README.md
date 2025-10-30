@@ -26,7 +26,7 @@ If you're curious about my work, feel free to explore my [Repositories](https://
 </p>
 
 
-### Socials
+Socials
 
 <p align="left">
   <a href="https://github.com/Despereaux0" target="_blank" rel="noreferrer">
