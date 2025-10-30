@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://media.tenor.com/swrh0ryFA5MAAAAi/hypee-elmo-hype.gif" alt="Hype GIF" width="100" />
+  <img src="https://media.tenor.com/swrh0ryFA5MAAAAi/hypee-elmo-hype.gif" alt="Hype GIF" width="120" />
 </p>
 
-<p align="center" style="font-size:64px; font-weight:bold; margin:0;">
-  Hi! My name is Despereaux0
-</p>
-
-<p align="center" style="font-size:40px; font-weight:500; margin:0;">
-  Junior CyberSecurity Analyst
-</p>
+<!-- Use header tags for large text (GitHub preserves these) -->
+<h1 align="center">Hi! My name is Despereaux0</h1>
+<h2 align="center">Junior CyberSecurity Analyst</h2>
 
 
 👀 I’m interested in cybersecurity — especially penetration testing, threat analysis, and defensive security.<br>
