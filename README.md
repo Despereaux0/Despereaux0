@@ -1,16 +1,21 @@
-Hi ![](https://media.tenor.com/swrh0ryFA5MAAAAi/hypee-elmo-hype.gif) My name is Despereaux0
-===========================================================================================================================================
+<p align="center">
+  <img src="https://media.tenor.com/swrh0ryFA5MAAAAi/hypee-elmo-hype.gif" alt="Hype GIF" style="vertical-align:middle;" />
+  <span style="font-size:48px; font-weight:bold; vertical-align:middle;">Hi! My name is Despereaux0</span>
+</p>
 
-Junior CyberSecurity Analyst
-----------------------------
+<p align="center">
+  <span style="font-size:28px; font-weight:semi-bold;">Junior CyberSecurity Analyst</span>
+</p>
 
-- 👋 Hi, I’m @Despereaux0  
-- 👀 I’m interested in cybersecurity — especially penetration testing, threat analysis, and defensive security.  
-- 🌱 I’m currently learning advanced red team techniques through TryHackMe, Hack The Box, and my personal Kali Linux lab.  
-- 💞️ I’m looking to collaborate on open-source security projects, Capture the Flag (CTF) writeups, and tool development in Python or Bash.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vassant-veloo-gove) | [Email me](mailto:vassantgoveveloo@gmail.com)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I own exotic pets🕷🦎🦂🐸
+<ul>
+  <li>👋 Hi, I’m @Despereaux0</li>
+  <li>👀 I’m interested in cybersecurity — especially penetration testing, threat analysis, and defensive security.</li>
+  <li>🌱 I’m currently learning advanced red team techniques through TryHackMe, Hack The Box, and my personal Kali Linux lab.</li>
+  <li>💞️ I’m looking to collaborate on open-source security projects, Capture the Flag (CTF) writeups, and tool development in Python or Bash.</li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/vassant-veloo-gove">LinkedIn</a> | <a href="mailto:vassantgoveveloo@gmail.com">Email me</a></li>
+  <li>😄 Pronouns: He/Him</li>
+  <li>⚡ Fun fact: I own exotic pets🕷🦎🦂🐸</li>
+</ul>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
