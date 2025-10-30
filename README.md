@@ -45,11 +45,11 @@ Junior CyberSecurity Analyst
   </a>
 
   <a href="https://tryhackme.com/p/Despereaux0" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tryhackme.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tryhackme.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tryhackme.svg" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://your-hosting/tryhackme-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tryhackme.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tryhackme.svg" width="32" height="32" alt="TryHackMe" title="TryHackMe" />
+  </picture>
+</a>
 </p>
 
