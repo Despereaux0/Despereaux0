@@ -14,7 +14,7 @@
 ⚡ Fun fact: "I built a Kali Linux lab in my own home to practice penetration testing — and my gecko “supervises” my exploits." 🦎💻<br>
 📂 Check Out My Projects
 
-If you're curious about my work, feel free to explore my repositories!  
+If you're curious about my work, feel free to explore my [Repositories](https://github.com/Despereaux0?tab=repositories)!  
 
 - **CTF & Security Write-Ups** – Step-by-step solutions from TryHackMe, Hack The Box, and personal penetration testing labs.  
 - **Mini-Game Solvers** – Python programs like Wordle, Sudoku, and Minesweeper solvers that combine logic and automation.  
