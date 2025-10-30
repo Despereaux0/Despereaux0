@@ -13,6 +13,16 @@
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: "I built a Kali Linux lab in my own home to practice penetration testing — and my gecko “supervises” my exploits." 🦎💻
 
+📂 Check Out My Projects
+
+If you're curious about my work, feel free to explore my repositories!  
+
+- **CTF & Security Write-Ups** – Step-by-step solutions from TryHackMe, Hack The Box, and personal penetration testing labs.  
+- **Mini-Game Solvers** – Python programs like Wordle, Sudoku, and Minesweeper solvers that combine logic and automation.  
+- **Software Programs** – Projects in Python, C, SQL, and Assembly, including systems like Coffee Shop Ordering, Pharmacy System, and Airline Database.  
+
+You can browse them here: [Repositories](https://github.com/Despereaux0?tab=repositories)
+
 
 
 <p align="left">
