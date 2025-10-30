@@ -11,8 +11,8 @@
 💞️ I’m looking to collaborate on open-source security projects, Capture the Flag (CTF) writeups, and tool development in Python or Bash.<br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/vassant-veloo-gove">LinkedIn</a> | <a href="mailto:vassantgoveveloo@gmail.com">Email me</a><br>
 😄 Pronouns: He/Him<br>
-⚡ Fun fact: "I built a Kali Linux lab in my own home to practice penetration testing — and my gecko “supervises” my exploits." 🦎💻
-📂📁 Check Out My Projects
+⚡ Fun fact: "I built a Kali Linux lab in my own home to practice penetration testing — and my gecko “supervises” my exploits." 🦎💻<br>
+📂 Check Out My Projects
 
 If you're curious about my work, feel free to explore my repositories!  
 
