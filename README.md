@@ -81,10 +81,10 @@ If you're curious about my work, feel free to explore my [repositories](https://
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" title="Wireshark" width="36" height="36" />
   </a>
   <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Nmap_logo.svg" alt="Nmap" title="Nmap" width="36" height="36" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" title="Nmap" width="36" height="36" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Metasploit_logo.svg" alt="Metasploit" title="Metasploit" width="36" height="36" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Metasploit" title="Metasploit" width="36" height="36" />
   </a>
 </p>
 
