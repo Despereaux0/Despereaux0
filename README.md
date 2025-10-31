@@ -86,6 +86,9 @@ If you're curious about my work, feel free to explore my [repositories](https://
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Despereaux0/Despereaux0/main/assets/meta-logo.png" alt="Metasploit" title="Metasploit" width="36" height="36" />
   </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" alt="Wireshark" title="Wireshark" width="36" height="36" />
+  </a>
 </p>
 
 ---
