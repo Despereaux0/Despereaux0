@@ -84,7 +84,7 @@ If you're curious about my work, feel free to explore my [repositories](https://
     <img src="https://raw.githubusercontent.com/Despereaux0/Despereaux0/main/assets/nmap-logo.png" title="Nmap" width="36" height="36" />
   </a>
   <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Despereaux0/Despereaux0/main/assets/avcrc87jr.png" alt="Metasploit" title="Metasploit" width="36" height="36" />
+    <img src="https://raw.githubusercontent.com/Despereaux0/Despereaux0/main/assets/meta-logo.png" alt="Metasploit" title="Metasploit" width="36" height="36" />
   </a>
 </p>
 
